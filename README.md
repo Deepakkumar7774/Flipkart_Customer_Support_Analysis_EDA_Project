@@ -188,3 +188,15 @@ You can find the complete code and analysis in the GitHub repository.
 Flipkart for providing the dataset.
 
 Python Libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
+
+
+
+**📬 Contact & Connect**
+
+👤 Deepak Kumar
+
+📧 deepakkumarsingh7774@gmail.com
+
+🔗 LinkedIn [deepakkumar7774](https://www.linkedin.com/in/deepakkumar7774)
+
+🔗 Github [Deepakkumar7774](https://github.com/Deepakkumar7774)
