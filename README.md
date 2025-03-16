@@ -180,7 +180,7 @@ This project provides actionable insights to help Flipkart enhance its customer 
 
 **📂 GitHub Repository**
 
-You can find the complete code and analysis in the GitHub repository.
+You can find the complete code and analysis in the GitHub repository is here: [Flipkart_Customer_Support_Analysis_EDA_Project](https://github.com/Deepakkumar7774/Flipkart_Customer_Support_Analysis_EDA_Project)
 
 
 
