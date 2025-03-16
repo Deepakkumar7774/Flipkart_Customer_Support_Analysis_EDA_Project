@@ -101,7 +101,8 @@ By leveraging Exploratory Data Analysis (EDA), this project aims to uncover patt
 **📂 Dataset Details**
 
 The dataset used in this project contains 85,907 customer support interactions with various features such as CSAT scores, issue categories, order information, agent details, and response times.
-The dataset is loaded from a CSV file named Customer_support_data.csv and the link is here: 
+The dataset is loaded from a CSV file named Customer_support_data.csv and
+the link is here: [Customer_support_data.csv](https://github.com/Deepakkumar7774/Flipkart_Customer_Support_Analysis_EDA_Project/blob/main/Customer_support_data.csv)
 
 
 
