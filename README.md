@@ -152,6 +152,8 @@ the link is here: [Customer_support_data.csv](https://github.com/Deepakkumar7774
 
 **📊 Data Analysis**
 
+Here is the Full analysis: [DeepakKumar_Flipkart_CSAT_Project.ipynb](https://github.com/Deepakkumar7774/Flipkart_Customer_Support_Analysis_EDA_Project/blob/main/DeepakKumar_Flipkart_CSAT_Project.ipynb)
+
 **📂 Missing Values/Null Values**
 
 The dataset contains several missing values, particularly in columns like Customer Remarks, order_date_time, Customer_City, Product_category, Item_price, and connected_handling_time. These missing values are handled appropriately during the analysis to ensure accurate insights.
